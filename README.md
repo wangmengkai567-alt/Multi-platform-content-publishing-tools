@@ -87,4 +87,4 @@ npm install
 npm run dev
 ```
 
-默认访问 `http://localhost:5173`。如果后端不在 `8080`，可通过 `VITE_API_BASE` 调整。
+默认访问 `http://localhost:5173`。
