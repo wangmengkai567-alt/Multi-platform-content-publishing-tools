@@ -88,3 +88,5 @@ npm run dev
 ```
 
 默认访问 `http://localhost:5173`。
+
+demo视频链接：`https://www.bilibili.com/video/BV1y6VU6jEnK/?vd_source=9890724d574f35a16b6d22529571bdf4`
